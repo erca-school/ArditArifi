@@ -43,6 +43,8 @@ doi:10.1029/2022JD038235
 
 # Additional: download CMIP6 data
 How to download CMIP6 data
+
+
 (1) Read: https://pcmdi.llnl.gov/CMIP6/Guide/dataUsers.html and analyze and select data based on https://wcrp-cmip.github.io/CMIP6_CVs/docs/CMIP6_experiment_id.html
 
 (2) Goto for instance https://esgf-node.llnl.gov/projects/cmip6/ and select the data. Add it to the chart and get the wget script. Make sure to be registered in the system before.
