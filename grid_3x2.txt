@@ -1,4 +1,3 @@
-
 gridtype = lonlat
 xsize = 120
 ysize = 90
